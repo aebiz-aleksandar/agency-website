@@ -1,6 +1,6 @@
 # Creative Agency Website
 
-![Creative Agency Design Image](./images/design-image.png)
+![Creative Agency Design Image](./images/design-image.jpg)
 
 ## About APP
 
